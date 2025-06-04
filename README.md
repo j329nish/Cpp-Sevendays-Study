@@ -14,4 +14,4 @@
 | 6日目 | 継承 | [Link](https://github.com/j329nish/Cpp-Sevendays-Study/tree/main/prob6) |
 | 7日目 | ポリモーフィズム | [Link](https://github.com/j329nish/Cpp-Sevendays-Study/tree/main/prob7) |
 
-(最終更新 2025/6/3)
+(最終更新 2025/6/4)
